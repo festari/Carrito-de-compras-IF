@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.lista-productos {
+  flex: 1;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.carrito {
+  flex: 1;
+  margin-left: 2rem;
+  align-items: center;
+  padding-top: 2rem;
+}
